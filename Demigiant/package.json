@@ -1,0 +1,8 @@
+{
+    "name": "com.genify.library.dotweenpro",
+    "displayName": "DOTween PRO",
+    "version": "1.0.335",
+    "unity": "2019.4",
+    "description": "A Component that allows to animate some of its gameObject's properties without scripting: Move, Fade, Color, Rotate, Scale, Punch, Shake, Text, Camera properties and more.",
+    "dependencies": {}
+}
